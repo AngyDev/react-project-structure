@@ -1,1 +1,1 @@
-# react-project-structure
+# React Project Setup
