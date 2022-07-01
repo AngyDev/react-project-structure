@@ -1,6 +1,6 @@
 import React from "react";
 
-import "./logo.css";
+import "./Logo.css";
 
 const Logo = () => {
   return <div>Logo</div>;
